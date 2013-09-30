@@ -1,0 +1,524 @@
+(dp1
+S'word_dictionary'
+p2
+(dp3
+Vdeface
+p4
+VVandalize, mar the appearance of.
+p5
+sVabstain
+p6
+VHold back, refrain
+p7
+sVappease
+p8
+VPacify; satisfy, relieve; concede to belligerent demands.
+p9
+sVconverge
+p10
+VMove towards one another; unite.
+p11
+sValacrity
+p12
+VCheerful or speedy willingness.
+p13
+sVantagonize
+p14
+VMake hostile or unfriendly.
+p15
+sVavid
+p16
+VEnthusiastic, dedicated, passionate.
+p17
+sVconsole
+p18
+VLessen the suffering or grief.
+p19
+sVadverse
+p20
+VOpposing, harmful
+p21
+sVassuage
+p22
+VMake milder, relieve, soothe.
+p23
+sVabjure
+p24
+VGive up, renounce; repudiate, recant, or shun
+p25
+sVdebunk
+p26
+VExpose; disprove.
+p27
+sVcomplacent
+p28
+VEasy going; pushover; smug.
+p29
+sVconvoluted
+p30
+VTwisted; very complicated.
+p31
+sVantipathy
+p32
+VDeep dislike, aversion.
+p33
+sVclamor
+p34
+VNoisy uproar or protest, as from a crowd.
+p35
+sVcounterpoint
+p36
+VContrasting an argument or hypothesis.
+p37
+sVadvocate
+p38
+VSpeak or argue in favor of; a person who pleads for a cause or on behalf of another person.
+p39
+sVdenigrate
+p40
+VBelittle; attack the reputation of.
+p41
+sVcandid
+p42
+VHonest, open; sincere.
+p43
+sVcopious
+p44
+VPlentiful.
+p45
+sVdefamatory
+p46
+VSlanderous; injurious.
+p47
+sVcounterintuitive
+p48
+VAgainst expectations.
+p49
+sVacme
+p50
+VSummit, peak, highest point
+p51
+sVdeleterious
+p52
+VHarmful, unhealthful.
+p53
+sVcapricious
+p54
+VActing on impulse; erratic.
+p55
+sVascertain
+p56
+VFind out with certainty.
+p57
+sVconsolidate
+p58
+VTo reduce; unite.
+p59
+sVcrescendo
+p60
+VSteady increase in force; climax.
+p61
+sVcartography
+p62
+VMap making.
+p63
+sVcynical
+p64
+VBitterly pessimistic.
+p65
+sVabridge
+p66
+VReduce or lessen; shorten by omitting parts throughout while retaining the main idea.
+p67
+sVclinch
+p68
+VMake final or settle conclusively.
+p69
+sVcorroborate
+p70
+VSupport; add evidence to.
+p71
+sVderide
+p72
+VMock, scoff at.
+p73
+sVcastigate
+p74
+VCriticize severely.
+p75
+sVcaustic
+p76
+VCapable of corroding metal; very critical or sarcastic.
+p77
+sVaffectation
+p78
+VFake behavior adopted to give a certain impression.
+p79
+sVaffable
+p80
+VWarm and friendly, pleasant, approachable.
+p81
+sVanarchy
+p82
+VAbsence of government or law; chaos, disorder.
+p83
+sVcanonical
+p84
+VAuthorized; recognized.
+p85
+sVconcur
+p86
+VApprove; agree.
+p87
+sVactivism
+p88
+VThe practice of pursuing political or other goals through vigorous action, often including protests and demonstrations.
+p89
+sVadhere
+p90
+VStick (to), such as with glue or to a plan or belief.
+p91
+sVarcane
+p92
+VObscure; secret.
+p93
+sVbogus
+p94
+VFake; fraudulent.
+p95
+sVcommensurate
+p96
+VThe same in size, extent.
+p97
+sVcomplementary
+p98
+VCompleting; fitting together well.
+p99
+sVarbitrary
+p100
+VUnreasonable; having no basis.
+p101
+sVconfer
+p102
+VConsult; refer to.
+p103
+sVconversant
+p104
+VKnowledgeable about.
+p105
+sVcountenance
+p106
+VFacial expressive (noun); approve or tolerate (verb).
+p107
+sVbase
+p108
+VMorally low, mean, dishonorable.
+p109
+sVcensure
+p110
+VStrong disapproval; reprimand.
+p111
+sVabate
+p112
+VReduce, dimish
+p113
+sVconnoisseur
+p114
+VExpert; especially in fine arts.
+p115
+sVbygone
+p116
+VPast, former; in the past.
+p117
+sVculminate
+p118
+VReach the final stage.
+p119
+sVconciliatory
+p120
+VReconciling, appeasing.
+p121
+sVcogent
+p122
+VLogical; convincing.
+p123
+sVcontextualize
+p124
+VPlace in context.
+p125
+sVcacophony
+p126
+VHarsh, discordant.
+p127
+sVarticulate
+p128
+VUsing language in a clear fluent way.
+p129
+sVcredulous
+p130
+VGullible; prone to trusting too easily.
+p131
+sVaberrant
+p132
+VAbnormal, deviant
+p133
+sVbolster
+p134
+VStrengthen or support.
+p135
+sVdebase
+p136
+VDegrade; lower in quality;
+p137
+sVconcede
+p138
+VGive in; yield; admit.
+p139
+sVcoalesce
+p140
+VCome together; unite.
+p141
+sVcompliant
+p142
+VObeying; submissive.
+p143
+sVcounterproductive
+p144
+VDefeating the purpose.
+p145
+sVaver
+p146
+VDeclare or affirm with confidence.
+p147
+sVdaunt
+p148
+VDiscourage; dishearten. 
+p149
+sVcondone
+p150
+VOverlook; tolerate.
+p151
+sVanomaly
+p152
+VDeviation from what is common; inconsistency.
+p153
+sVartless
+p154
+VFree of deceit of craftiness, natural.
+p155
+sVbureaucracy
+p156
+VGovernment characterized by many bureaus.
+p157
+sVcosmopolitan
+p158
+VBelonging to the entire world; at home globally.
+p159
+sVdecorous
+p160
+VBehaving with propriety and good taste; polite.
+p161
+sVaudacious
+p162
+VVery bold or brave; adventurous.
+p163
+sVartifact
+p164
+VAny object from earlier times.
+p165
+sVadmonish
+p166
+VMildly scold; caution, advise or remind to do something
+p167
+sVarchaic
+p168
+VPrimitive; ancient.
+p169
+sVcatalyst
+p170
+VCauser of change.
+p171
+sVanalogous
+p172
+VComparable, corresponding in some particular way.
+p173
+sVaugment
+p174
+VMake larger; modify.
+p175
+sVdefault
+p176
+VFailure to act.
+p177
+sVapocryphal
+p178
+VOf questioning authenticity; false.
+p179
+sVaesthetic
+p180
+VConcerning the beauty of appreciate of an object or idea.
+p181
+sVautonomous
+p182
+VSelf-governing; independent.
+p183
+sVchauvinism
+p184
+VFanatical patriotism or blind enthusiasm for military glory.
+p185
+sVaggrandize
+p186
+VMake greater, exaggerate.
+p187
+sVascetic
+p188
+VAbstinent or austere in lifestyle; simple life.
+p189
+sVcontentious
+p190
+VControversial; prone to causing arguments.
+p191
+sVbuttress
+p192
+VSupport or encourage.
+p193
+sVconundrum
+p194
+VRiddle; mystery.
+p195
+sVcovert
+p196
+VSecret; veiled.
+p197
+sVdenote
+p198
+VBe a name or symbol for.
+p199
+sVdeem
+p200
+VJudge; consider.
+p201
+sVconversely
+p202
+VIn an opposite manner or way.
+p203
+sVcredibility
+p204
+VTrustworthiness.
+p205
+sVboor
+p206
+VRude, ill-mannered.
+p207
+sVbelie
+p208
+VContradict or misrepresent.
+p209
+sVbenign
+p210
+VHarmless; favorable.
+p211
+sVdeference
+p212
+VRespectful submission.
+p213
+sVconstrue
+p214
+VInterpret or translate.
+p215
+sVabrasive
+p216
+VRough, suitable for grinding or polishing; causing irritation or annoyance.
+p217
+sVchronological
+p218
+VArranged logically in time.
+p219
+sVbalk
+p220
+VRefuse to proceed or refuse to move forward with something.
+p221
+sVabdicate
+p222
+VFormally give up the throne or some other power or responsibility.
+p223
+sVbuffer
+p224
+VShield; protect.
+p225
+sVdeflect
+p226
+VCause to curve; turn aside.
+p227
+sVappreciable
+p228
+VEnough to be perceived, considerable.
+p229
+sVanoint
+p230
+VRub or sprinkle oil on; make sacred.
+p231
+sVaggregate
+p232
+VGather together, amount to; constituting a whole made up of constituent parts.
+p233
+sVambivalent
+p234
+VUncertain; unable to decide.
+p235
+sVdelineate
+p236
+VMark the outline of; sketch.
+p237
+sVambiguous
+p238
+VNot clear; hard to understand.
+p239
+sVaustere
+p240
+VSevere in manner or appearance; disciplined.
+p241
+sValienate
+p242
+VCause to become unfriendly, hostile or distant.
+p243
+sVapathy
+p244
+VNot caring; absence of feeling.
+p245
+sVarduous
+p246
+VVery difficult; strenuous.
+p247
+sVcraven
+p248
+VVery cowardly; lacking courage.
+p249
+sVabhor
+p250
+VDetest, regard with disgust
+p251
+sVburgeon
+p252
+VGrow or flourish rapidly.
+p253
+sValleviate
+p254
+VTo lessen; make easier to endure.
+p255
+sVconstrict
+p256
+VSqueeze; compress.
+p257
+sVcrafty
+p258
+VCunning; skillful.
+p259
+ssS'display_name'
+p260
+S'Super Dictionary'
+p261
+sS'name'
+p262
+g2
+s.
